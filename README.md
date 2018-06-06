@@ -1,0 +1,1 @@
+# Reducer_-Zad_19.4
